@@ -63,9 +63,8 @@ php artisan migrate
 
 php artisan session:table
 
-https://cheatsheetseries.owasp.org/cheatsheets/Laravel_Cheat_Sheet.html
 ```
-
+Owasp Top 10 : https://cheatsheetseries.owasp.org/cheatsheets/Laravel_Cheat_Sheet.html
 
 Acessar o projeto
 [http://localhost:8000](http://localhost:8000)
